@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="password_login"><font size="15">Contraseña</font></string>
+    <string name="email_login"><font size="15">Correo</font></string>
+    <string name="nombre"><font size="15">Nombre</font></string>
+    <string name="apellido"><font size="15">Apellido</font></string>
+    <string name="telefono"><font size="15">Teléfono</font></string>
 </resources>
